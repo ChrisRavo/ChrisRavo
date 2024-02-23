@@ -1,7 +1,7 @@
 
 
 ### About Me
-Hi there! I'm Christopher Ravenscroft, a passionate software developer with a keen interest in web development and artificial intelligence. I love turning ideas into reality through coding and continuously expanding my skills in the ever-evolving tech world.
+Hi there! I'm Christopher Ravenscroft, an aspiring data scientist currently immersed in my masters studies. With a background in Mathematics,  ...
 
 ### Education
 
@@ -13,25 +13,23 @@ Hi there! I'm Christopher Ravenscroft, a passionate software developer with a ke
   - University of Sheffield, UK. 
   - Graduated: June 2023
 
+
+
 ### Projects
 
-#### Project 1: Sentiment Analysis Web App
-- **Description:** Developed a web application that performs sentiment analysis on user-provided text using natural language processing techniques.
-- **Technologies:** Python, Flask, NLTK, HTML, CSS, JavaScript
+#### Project 1: Sentiment Analysis Dashboard ? Find new data set for this, re use dashboard. 
+- **Description:** Developed a interactive dashboard in Python using streamlit package, which performs sentiment analysis of streamed datasets. 
+- **Technologies:** Python
 - [GitHub Repository](link)
 
-#### Project 2: E-Commerce Website
-- **Description:** Built a full-stack e-commerce website for selling handmade crafts, including user authentication, product listings, and checkout functionality.
-- **Technologies:** React.js, Node.js, Express.js, MongoDB, Bootstrap
+#### Project 2: Data Visualization 
+- **Description:** Example of Cleaning, Investigating and Visualizing a new Dataset. 
+- **Technologies:** Python, GGplot, plotly. 
 - [GitHub Repository](link)
 
-#### Project 3: Chatbot for Customer Support
-- **Description:** Created a chatbot using machine learning algorithms to handle customer inquiries and provide instant responses.
-- **Technologies:** Python, TensorFlow, Flask, HTML, CSS
-- [GitHub Repository](link)
 
 ### Contact Information
-- **Email:** chris.ravenscroft@example.com
+- **Email:** chrisraven1009@gmail.com
 - **LinkedIn:** [linkedin.com/in/chrisravenscroft](linkedin.com/in/chrisravenscroft)
 
 
