@@ -32,7 +32,7 @@ The process involved:
 - **SQL**: For pulling data from NHS Database
 - **Generative Topographic Mapping (GTM)**: For clustering patients based on clinical data.
 - **Random Forest**: For predicting adverse outcomes within identified clusters.
-- - [GitHub Repository](link)
+- - [GitHub Repository](https://github.com/ChrisRavo/Thesis)
 
 ### Important Note
 The code and data used in this project are not available in this repository due to privacy and confidentiality concerns, as the data is derived from **private NHS patient records**.
