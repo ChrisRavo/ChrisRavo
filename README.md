@@ -7,7 +7,7 @@ Hi there! I'm Christopher Ravenscroft, an aspiring data scientist currently imme
 
 - Msc Data Science
   - Liverpool John Moores University, UK. 
-  - Expected Graduation: September 2024
+  - Graduated: September 2024: Distinction
 
 - Bsc Mathematics
   - University of Sheffield, UK. 
